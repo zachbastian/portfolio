@@ -8,7 +8,7 @@ This is a showcase for all of the work I have completed at Epicodus.  All the ma
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+HTML, CSS, and Bootstrap were used in the creation of this page.
 
 ## Support and contact details
 
