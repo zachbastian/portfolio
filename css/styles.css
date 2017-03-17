@@ -13,3 +13,7 @@ p, div {
 body {
   background-image: url(../img/psych.png)
 }
+
+.zach img {
+  width:30%;
+}
