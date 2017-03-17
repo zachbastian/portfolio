@@ -12,7 +12,8 @@ p, div {
 
 .jumbotron {
   background-image: url("../img/green_cup.png");
-  background-size: cover;
+  background-size: tile;
+  border-radius: 0px;
 }
 
 body {
