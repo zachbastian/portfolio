@@ -1,3 +1,11 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Permanent Marker"
+}
+
+p, div {
+  font-family:  "Economica"
+}
+
 .jumbotron img {
   float: right;
 }
@@ -7,18 +15,14 @@
   background-size: cover;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: "Permanent Marker"
-}
-
-p, div {
-  font-family:  "Economica"
-}
-
 body {
   background-image: url(../img/psych.png)
 }
 
 .zach img {
   width:30%;
+}
+
+.quote {
+  float: right;
 }
