@@ -16,14 +16,28 @@ p, div {
   border-radius: 0px;
 }
 
-body {
-  background-image: url(../img/psych.png)
-}
-
 .zach img {
   width:30%;
 }
 
-.quote {
-  float: right;
+body {
+  background-image: url(../img/psych.png)
+}
+
+.focus {
+  font-style:italic;
+}
+
+blockquote {
+  max-width: 400px;
+  text-align: center;
+  border-left: 3px;
+  padding-left: 5px;
+  margin:0 auto;
+  width: auto;
+  display: table;
+}
+
+#bq {
+  text-align: center;
 }
